@@ -20,7 +20,7 @@ public class AnimalsController : ControllerBase
     {
         _configuration = configuration;
     }
-
+    //test 2 konta github
     [HttpGet]
     public IActionResult GetAllAnimals()
     {
